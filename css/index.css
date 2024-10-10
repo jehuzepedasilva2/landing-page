@@ -113,7 +113,6 @@ a {
 .mid {
   flex: 1;
   display: flex;
-  flex-wrap: wrap;
   gap: 60px;
 }
 
@@ -128,7 +127,6 @@ a {
 .bottom {
   flex: 1;
   display: flex;
-  flex-wrap: wrap;
   gap: 60px;
   padding-top: 8px;
   margin-bottom: 80px;
